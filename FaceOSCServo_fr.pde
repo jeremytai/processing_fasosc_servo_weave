@@ -1,6 +1,6 @@
 // FaceOSC Servo Action
-// by Truth Dare Double Dare / http://truthdaredoubledare.com
-// Jeremy Tai Abbett / Franziska Hübler
+// Franziska Hübler / http://www.huebler.cc
+// Jeremy Tai Abbett / http://jeremy.abbett.net
 
 import oscP5.*; //  Load OSC P5 library
 import netP5.*; //  Load net P5 library
